@@ -1,0 +1,28 @@
+1
+Coca Cola 2l
+3
+24.000000
+4
+Refrigerante Sem gas
+2
+12.000000
+5
+Coca Cola 2l
+5
+45.500000
+1
+Coca Cola 2l
+1
+8.000000
+1
+Coca Cola 2l
+2
+16.000000
+3
+Batata Frita
+1
+30.000000
+4
+Refrigerante Sem gas
+5
+30.000000

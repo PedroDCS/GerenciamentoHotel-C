@@ -1,0 +1,54 @@
+Pagamento em dinheiro das compras do hospede: Tainara Camargos
+207.000000
+11277.000000
+4
+12
+2017
+Recebendo= Pagamento no cartao das compras do hospede: Juao Paulo
+100.000000
+1100.000000
+4
+12
+2017
+Recebendo= Pagamento no cartao das compras do hospede: Sergio
+100.000000
+1500.000000
+4
+12
+2017
+Recebendo= Pagamento no cartao das compras do hospede: Paulo
+100.000000
+1700.000000
+5
+12
+2017
+Recebendo= Pagamento no cartao das compras do hospede: Bruno
+100.000000
+1800.000000
+5
+12
+2017
+Pagamento em dinheiro do reestoque: 1
+-747.000000
+9253.000000
+5
+12
+2017
+Pagando= Pagamento 1 de 4 dividido do reestoque: 2
+-111.000000
+8889.000000
+5
+12
+2017
+Pagamento em dinheiro das compras do hospede: Tainara Camargos
+16.282352
+8905.282227
+9
+12
+2017
+Pagamento em dinheiro no CheckIn da reserva: 8
+90.000000
+8995.282227
+10
+12
+2017

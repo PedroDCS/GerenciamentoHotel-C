@@ -1,0 +1,8 @@
+5
+Coca Cola 2l
+2
+18.200001
+3
+Batata Frita
+2
+60.000000

@@ -1,0 +1,355 @@
+<dados>
+	<tabela-hospede>
+		<registro>
+			<codigo>1</codigo>
+			<nome>Pedro Daniel</nome>
+			<endereco>Rua Malacacheta, 458, Bela Vista, Angelandia, MG</endereco>
+			<CPF>13247508635</CPF>
+			<telefone_hospede>33988919758</telefone_hospede>
+			<email>pedrodanielcamargos@hotmail.com</email>
+			<sexo>Masculino</sexo>
+			<estado_civil>Solteiro</estado_civil>
+			<data_nascimento> 18/02/1998</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<nome>Pedro DCS</nome>
+			<endereco>Av Malacacheta, 408, Centro, Angelandia, MG</endereco>
+			<CPF>15245505665</CPF>
+			<telefone_hospede>33997919552</telefone_hospede>
+			<email>pedrodaniel@hotmail.com</email>
+			<sexo>Masculino</sexo>
+			<estado_civil>Solteiro</estado_civil>
+			<data_nascimento> 28/04/1997</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<nome>Tainara Camargos</nome>
+			<endereco>Av papagaio, 2208, Centro, Formiga, MG</endereco>
+			<CPF>05143575765</CPF>
+			<telefone_hospede>33779909552</telefone_hospede>
+			<email>taine@hotmail.com</email>
+			<sexo>Feminino</sexo>
+			<estado_civil>Solteira</estado_civil>
+			<data_nascimento> 03/12/2000</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>4</codigo>
+			<nome>Diego Paladino</nome>
+			<endereco>Av deidara, 456, Vila Nova, Belo Horizonte, MG</endereco>
+			<CPF>19738618345</CPF>
+			<telefone_hospede>21987635358</telefone_hospede>
+			<email>diego@gmail.com</email>
+			<sexo>Masculino</sexo>
+			<estado_civil>Casado</estado_civil>
+			<data_nascimento> 19/95/1998</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>5</codigo>
+			<nome>Juao Paulo</nome>
+			<endereco>Rua das Alternativas, 456c, Beira Rio, Santos, SP</endereco>
+			<CPF>11198467803</CPF>
+			<telefone_hospede>31987654321</telefone_hospede>
+			<email>jpmm@bol.com</email>
+			<sexo>Masculino</sexo>
+			<estado_civil>Solteiro</estado_civil>
+			<data_nascimento> 01/01/1990</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>6</codigo>
+			<nome>Paulo Vieira</nome>
+			<endereco>Zona Rural, Zona Rural, Zona Rural, Betim, MG</endereco>
+			<CPF>13245609823</CPF>
+			<telefone_hospede>33976564333</telefone_hospede>
+			<email>pv@gmail.com</email>
+			<sexo>Masculino</sexo>
+			<estado_civil>Casado</estado_civil>
+			<data_nascimento> 12/12/2000</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>7</codigo>
+			<nome>Maria Aparecida Soares</nome>
+			<endereco>Rua Malacacheta, 458, Bela Vista, Angelandia, MG</endereco>
+			<CPF>23434545656</CPF>
+			<telefone_hospede>33988645327</telefone_hospede>
+			<email>mariaapa@bol.com</email>
+			<sexo>Feminino</sexo>
+			<estado_civil>Viuva</estado_civil>
+			<data_nascimento> 02/04/1973</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>8</codigo>
+			<nome>Tiago Duarte Augusto</nome>
+			<endereco>Rua do desespero, 112, Planalto, Belo Horizonte, MG</endereco>
+			<CPF>23434563499</CPF>
+			<telefone_hospede>21987653421</telefone_hospede>
+			<email>tiagoduarte@gmail.com</email>
+			<sexo>Masculino</sexo>
+			<estado_civil>Solteiro</estado_civil>
+			<data_nascimento> 12/12/1996</data_nascimento>
+		</registro>
+		<registro>
+			<codigo>9</codigo>
+			<nome>Berto Brandao</nome>
+			<endereco>Avenida Simples, 234, Centro, Divinopolis, MG</endereco>
+			<CPF>23457609823</CPF>
+			<telefone_hospede>37987645312</telefone_hospede>
+			<email>brandaoberto@outlook.com</email>
+			<sexo>Trans</sexo>
+			<estado_civil>Solteiro</estado_civil>
+			<data_nascimento> 11/11/1999</data_nascimento>
+		</registro>
+	</tabela-hospede>
+
+	<tabela-acomodacao>
+		<registro>
+			<codigo>1</codigo>
+			<descricao>Quarto Simples</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>1</tipo>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<descricao>Quarto Simples Plus</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>2</tipo>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<descricao>Simples Familia</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>4</tipo>
+		</registro>
+		<registro>
+			<codigo>4</codigo>
+			<descricao>Quarto Avancado Simples</descricao>
+			<facilidades>TV, Radio, Ventilador, Frigobar</facilidades>
+			<tipo>5</tipo>
+		</registro>
+		<registro>
+			<codigo>5</codigo>
+			<descricao>Quarto Avancado Plus</descricao>
+			<facilidades>TV, Radio, Ventilador, Frigobar</facilidades>
+			<tipo>6</tipo>
+		</registro>
+		<registro>
+			<codigo>6</codigo>
+			<descricao>Quarto Avancado Familia</descricao>
+			<facilidades>TV, Ventilador, Frigobar, Radio</facilidades>
+			<tipo>6</tipo>
+		</registro>
+		<registro>
+			<codigo>7</codigo>
+			<descricao>Quarto de Luxo </descricao>
+			<facilidades>Televisao, arcondicionado, wifi, ventilador, banheira de hidromassagem.</facilidades>
+			<tipo>8</tipo>
+		</registro>
+		<registro>
+			<codigo>8</codigo>
+			<descricao>Quarto de Luxo plus</descricao>
+			<facilidades>Televisao, arcondicionado, wifi, banheira de hidromassagem, ventilador, telefone fixo, netflix</facilidades>
+			<tipo>8</tipo>
+		</registro>
+		<registro>
+			<codigo>9</codigo>
+			<descricao>Quarto Presidencial</descricao>
+			<facilidades>televisao, arcondicionado, banheiro, hidromassagem, ventilador, wifi, netflix, frigobar</facilidades>
+			<tipo>9</tipo>
+		</registro>
+		<registro>
+			<codigo>10</codigo>
+			<descricao>Quarto presidencial plus</descricao>
+			<facilidades>Televisao, Arcondicionado, frigobar, wifi, netflix, banheiro, banheira de hidromassagem, duas camas, frigobar, ventilador.</facilidades>
+			<tipo>10</tipo>
+		</registro>
+		<registro>
+			<codigo>11</codigo>
+			<descricao>Quarto Simples</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>1</tipo>
+		</registro>
+		<registro>
+			<codigo>12</codigo>
+			<descricao>Quarto Simples</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>1</tipo>
+		</registro>
+		<registro>
+			<codigo>13</codigo>
+			<descricao>Quarto Simples</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>1</tipo>
+		</registro>
+		<registro>
+			<codigo>14</codigo>
+			<descricao>Quarto Simples</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>1</tipo>
+		</registro>
+		<registro>
+			<codigo>15</codigo>
+			<descricao>Quarto Simples Plus</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>2</tipo>
+		</registro>
+		<registro>
+			<codigo>16</codigo>
+			<descricao>Quarto Simples Plus</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>2</tipo>
+		</registro>
+		<registro>
+			<codigo>17</codigo>
+			<descricao>Simples Familia</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>4</tipo>
+		</registro>
+		<registro>
+			<codigo>19</codigo>
+			<descricao>Simples Familia</descricao>
+			<facilidades>TV, Radio, Ventilador</facilidades>
+			<tipo>4</tipo>
+		</registro>
+	</tabela-acomodacao>
+
+	<tabela-TipoAcomodacao>
+		<registro>
+			<codigo>1</codigo>
+			<descricao>Economica</descricao>
+			<valor>30.00</valor>
+			<QuantidadeHospedes>1</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<descricao>Economica</descricao>
+			<valor>50.00</valor>
+			<QuantidadeHospedes>2</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<descricao>Economica</descricao>
+			<valor>70.00</valor>
+			<QuantidadeHospedes>3</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>4</codigo>
+			<descricao>Economica</descricao>
+			<valor>80.00</valor>
+			<QuantidadeHospedes>4</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>5</codigo>
+			<descricao>Standard</descricao>
+			<valor>100.00</valor>
+			<QuantidadeHospedes>2</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>6</codigo>
+			<descricao>Standard</descricao>
+			<valor>120.00</valor>
+			<QuantidadeHospedes>3</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>7</codigo>
+			<descricao>Luxo</descricao>
+			<valor>200.00</valor>
+			<QuantidadeHospedes>2</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>8</codigo>
+			<descricao>Luxo</descricao>
+			<valor>240.00</valor>
+			<QuantidadeHospedes>4</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>9</codigo>
+			<descricao>Presidencial</descricao>
+			<valor>400.00</valor>
+			<QuantidadeHospedes>2</QuantidadeHospedes>
+		</registro>
+		<registro>
+			<codigo>10</codigo>
+			<descricao>Presidencial</descricao>
+			<valor>450.00</valor>
+			<QuantidadeHospedes>3</QuantidadeHospedes>
+		</registro>
+	</tabela-TipoAcomodacao>
+
+	<tabela-Produtos>
+		<registro>
+			<codigo>1</codigo>
+			<nome>Coca Cola 2l</nome>
+			<descricao>Bebida refrigerante sabor cola 2 litros</descricao>
+			<estoque>285</estoque>
+			<estoque_min>30</estoque_min>
+			<preco_custo>5.333000</preco_custo>
+			<preco_venda>8.141176</preco_venda>
+		</registro>
+		<registro>
+			<codigo>3</codigo>
+			<nome>Batata Frita</nome>
+			<descricao>1Kg de batata frita com tempero especial</descricao>
+			<estoque>290</estoque>
+			<estoque_min>20</estoque_min>
+			<preco_custo>10.000000</preco_custo>
+			<preco_venda>14.141176</preco_venda>
+		</registro>
+		<registro>
+			<codigo>4</codigo>
+			<nome>Refrigerante Sem gas</nome>
+			<descricao>refrigerante sabor laranja sem gas 2l</descricao>
+			<estoque>298</estoque>
+			<estoque_min>10</estoque_min>
+			<preco_custo>5.000000</preco_custo>
+			<preco_venda>7.889473</preco_venda>
+		</registro>
+		<registro>
+			<codigo>5</codigo>
+			<nome>Coca Cola 2l</nome>
+			<descricao>Coca cola Original 2 Litros</descricao>
+			<estoque>298</estoque>
+			<estoque_min>30</estoque_min>
+			<preco_custo>7.000000</preco_custo>
+			<preco_venda>10.489474</preco_venda>
+		</registro>
+	</tabela-Produtos>
+
+	<tabela-Fornecedor>
+		<registro>
+			<codigo>1</codigo>
+			<nome>Coca Cola</nome>
+			<razaosocial>Grupo Coca Cola LMTD</razaosocial>
+			<email>Coca.cola@revenda.com</email>
+			<inscricaoestadual>12345678912</inscricaoestadual>
+			<cnpj>98765432190876</cnpj>
+			<endereco>Rua das Flores, 2345, Industrial, Diamantina, MG</endereco>
+			<telefone>33999876534</telefone>
+		</registro>
+		<registro>
+			<codigo>2</codigo>
+			<nome>Pepsi</nome>
+			<razaosocial>Grupo Pepsi LMTD</razaosocial>
+			<email>pepsi@comercial.com</email>
+			<inscricaoestadual>123456789</inscricaoestadual>
+			<cnpj>987654321</cnpj>
+			<endereco>Rua Alabama, 2341, Industrial, Divinopolis, MG</endereco>
+			<telefone>21999657213</telefone>
+		</registro>
+	</tabela-Fornecedor>
+
+	<tabela-Hotel>
+		<registro>
+			<nome>Hotel Plaza 38</nome>
+			<razaosocial>Grupo Hotelaria Lucky 38</razaosocial>
+			<inscricaoestadual>388.123.654.897</inscricaoestadual>
+			<cnpj>88.496.765/1357-44</cnpj>
+			<endereco>Rua The Strip, 5554, Centro, New Vegas, MG</endereco>
+			<telefone>21988764523</telefone>
+			<email>hotelplaza38@grupolucky.com</email>
+			<nomeresponsavel>Pedro Daniel Camargos Soares</nomeresponsavel>
+			<telefonedoresponsavel>33988919758</telefonedoresponsavel>
+			<margemdelucro>30</margemdelucro>
+		</registro>
+	</tabela-Hotel>
+
+</dados>

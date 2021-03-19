@@ -1,0 +1,42 @@
+1
+Pedro Daniel
+pedrodanielcamargos@hotmail.com
+Masculino
+Solteiro
+Rua Malacacheta
+458
+Perto do Comercial ABC
+Angelandia
+MG
+39685000
+13247508635
+33988919758
+18/02/1998
+2
+Pedro DCS
+pedrodaniel@hotmail.com
+Masculino
+Solteiro
+Av Malacacheta
+408
+Perto do supermercado
+Angelandia
+MG
+39685000
+15245505665
+33997919552
+28/04/1997
+3
+Tainara
+taine@hotmail.com
+Feminino
+Solteira
+Av papagaio
+2208
+Perto do supermercado
+Formiga
+MG
+38235000
+05143575765
+33779909552
+03/12/2000

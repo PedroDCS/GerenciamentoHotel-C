@@ -1,0 +1,16 @@
+1
+Coca Cola 2l
+2
+16.000000
+5
+Coca Cola 2l
+3
+27.300001
+1
+Coca Cola 2l
+3
+24.000000
+4
+Refrigerante Sem gas
+4
+24.000000

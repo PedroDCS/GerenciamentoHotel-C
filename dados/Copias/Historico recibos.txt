@@ -1,0 +1,15 @@
+Pagamento no cartao das compras do hospede: Carlos
+100.000000
+5/1/2017
+Pagamento no cartao das compras do hospede: Sergio
+100.000000
+4/12/2017
+Pagamento no cartao das compras do hospede: Pedro Daniel
+100.000000
+3/11/2017
+Pagamento no cartao das compras do hospede: Paulo
+100.000000
+5/12/2017
+Pagamento no cartao das compras do hospede: Bruno
+100.000000
+5/12/2017
